@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+
+.idea/
+
+venv/
+docs/
+donottrack/
+
+Thumbs.db
+
+.coverage
